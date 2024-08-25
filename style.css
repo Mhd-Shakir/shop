@@ -5,6 +5,7 @@
 }
 .bg{
     background: linear-gradient(red,yellow,orange);
+    overflow: hidden;
 }
 .card{
     display: inline-block;
